@@ -1,0 +1,7 @@
+.head {
+  background-image: url("../components/Assets/sugarcane.jpg");
+  background-size: cover; /* Ensure the image covers the entire header */
+  background-position: center; /* Center the image */
+  color: white; /* Set text color to white for better visibility */
+  text-align: center;
+}
